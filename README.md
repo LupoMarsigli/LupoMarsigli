@@ -2,7 +2,7 @@
 
 ## Lupo Marsigli
 
-- 👨‍🎓 Studying Mathematical Engineering with a major in Statistical Learning.
+- 👨‍🎓 Studying Mathematical Engineering with a focus on statistics, data science and optimization algorithms.
 - 📚 Passionate about applying mathematical models to solve real-world problems.
 - 💻 Experienced in implementing machine learning algorithms and data analysis techniques.
 - 📊 Interested in exploring the intersection of statistics, mathematics, and computer science.
