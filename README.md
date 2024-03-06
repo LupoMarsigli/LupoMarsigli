@@ -2,7 +2,7 @@
 
 ## Lupo Marsigli
 
-- 👨‍🎓 Mathematical Engineer with a strong background in data science, Machine Learning and Operations Research.
+- 👨‍🎓 Mathematical Engineer with a strong background in Data Science and Operations Research.
 - 📚 Passionate about applying mathematical models to solve real-world problems.
 - 💻 Experienced in implementing machine learning algorithms and data analysis techniques.
 - 📊 Interested in exploring the intersection of statistics, mathematics, and optimization.
