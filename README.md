@@ -16,15 +16,9 @@
 - BSc in Mathematical Engineering @ Politecnico di Milano
 
 ## ✅ Projects:
-
-## 💻 Technical Skills:
-
-## 🔗 Get in Contact with me:
-
-## ✅ Projects:
 - [`Multi-object tracking in complex urban scenarios`](https://github.com/LupoMarsigli/Multi-Object-Tracking-in-Complex-Urban-Scenarios)
-- [`A non-parametric analysis on Honey Bee Health`](https://github.com/LupoMarsigli/HoneyBeeHealth) Evaluation of factors and strategies to mitigate colony loss in the US
-- [`Heterogeneityassessmentofchemoterapy‐injuredliverinpatientswithcolorectalcancer`](https://github.com/LupoMarsigli/Chemotherapy-Associated-Liver-Injury)
+- [`A non-parametric analysis on honey bee health`](https://github.com/LupoMarsigli/HoneyBeeHealth) Evaluation of factors and strategies to mitigate colony loss in the US
+- [`Heterogeneity assesment of chemoterapy‐injured liver in patients with colorectal cancer`](https://github.com/LupoMarsigli/Chemotherapy-Associated-Liver-Injury)
 
 ## 💻 Skills:
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]()
@@ -33,7 +27,7 @@
 [![LaTex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)]()
 
 ## 🔗 Get in Contact with me:  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lupo.marsigli99@gmail,com) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lupo.marsigli99@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marsiglil/)
 
 
