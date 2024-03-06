@@ -20,6 +20,23 @@
 ## 💻 Technical Skills:
 
 ## 🔗 Get in Contact with me:
+
+## ✅ Projects:
+- [`Multi-object tracking in complex urban scenarios`](https://github.com/LupoMarsigli/Multi-Object-Tracking-in-Complex-Urban-Scenarios)
+- [`A non-parametric analysis on Honey Bee Health`](https://github.com/LupoMarsigli/HoneyBeeHealth) Evaluation of factors and strategies to mitigate colony loss in the US
+- [`Heterogeneityassessmentofchemoterapy‐injuredliverinpatientswithcolorectalcancer`](https://github.com/LupoMarsigli/Chemotherapy-Associated-Liver-Injury)
+
+## 💻 Skills:
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]()
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]() 
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]() 
+[![LaTex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)]()
+
+## 🔗 Get in Contact with me:  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lupo.marsigli99@gmail,com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marsiglil/)
+
+
 <!--
 **LupoMarsigli/LupoMarsigli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
