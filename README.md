@@ -2,16 +2,16 @@
 
 ## Lupo Marsigli
 
-- 👨‍🎓 Studying Mathematical Engineering with a focus on statistics, data science and optimization algorithms.
+- 👨‍🎓 Mathematical Engineer with a strong background in data science, Machine Learning and Operations Research.
 - 📚 Passionate about applying mathematical models to solve real-world problems.
 - 💻 Experienced in implementing machine learning algorithms and data analysis techniques.
-- 📊 Interested in exploring the intersection of statistics, mathematics, and computer science.
+- 📊 Interested in exploring the intersection of statistics, mathematics, and optimization.
 - 🚀 Constantly learning and keeping up with the latest advancements in these fields.
 
 ## 🎓 Education:
+- MSc in Mathematical Engineering - Major in Statistical Learning @ Politecnico di Milano
 - Unitech International Society - European Engineering Leadership Program
 - Exchange Semester at @ Chalmers University of Technology, Gothenburg, Sweden
-- MSc in Mathematical Engineering - Major in Statistical Learning @ Politecnico di Milano
 - Exchange Semester at @ Universidad Autonoma de Madrid, Spain
 - BSc in Mathematical Engineering @ Politecnico di Milano
 
